@@ -1,0 +1,16 @@
+C:\Users\mrmet\source\repos\bakkal\bakkal\bin\Debug\bakkal.exe.config
+C:\Users\mrmet\source\repos\bakkal\bakkal\bin\Debug\bakkal.exe
+C:\Users\mrmet\source\repos\bakkal\bakkal\bin\Debug\bakkal.pdb
+C:\Users\mrmet\source\repos\bakkal\bakkal\bin\Debug\bakkal.xml
+C:\Users\mrmet\source\repos\bakkal\bakkal\obj\Debug\bakkal.vbproj.AssemblyReference.cache
+C:\Users\mrmet\source\repos\bakkal\bakkal\obj\Debug\bakkal.Billing.resources
+C:\Users\mrmet\source\repos\bakkal\bakkal\obj\Debug\bakkal.Items.resources
+C:\Users\mrmet\source\repos\bakkal\bakkal\obj\Debug\bakkal.Login.resources
+C:\Users\mrmet\source\repos\bakkal\bakkal\obj\Debug\bakkal.Splash.resources
+C:\Users\mrmet\source\repos\bakkal\bakkal\obj\Debug\bakkal.Resources.resources
+C:\Users\mrmet\source\repos\bakkal\bakkal\obj\Debug\bakkal.vbproj.GenerateResource.cache
+C:\Users\mrmet\source\repos\bakkal\bakkal\obj\Debug\bakkal.vbproj.CoreCompileInputs.cache
+C:\Users\mrmet\source\repos\bakkal\bakkal\obj\Debug\bakkal.exe
+C:\Users\mrmet\source\repos\bakkal\bakkal\obj\Debug\bakkal.xml
+C:\Users\mrmet\source\repos\bakkal\bakkal\obj\Debug\bakkal.pdb
+C:\Users\mrmet\source\repos\bakkal\bakkal\obj\Debug\bakkal.Basket.resources
